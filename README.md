@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
-<h3 align="center">I am a 3rd year student of Mathematics and Data Analysis at Warsaw University of Technology. I wouuld like to develop my analytic skills.</h3>
+<h3 align="center">I am a 3rd year student of Mathematics and Data Analysis at Warsaw University of Technology. I would like to develop my analytic skills.</h3>
 
 - 🌱 I’m currently learning **machine learning, statistics, probability**
 
 - 📫 How to reach me **kubanmski@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
